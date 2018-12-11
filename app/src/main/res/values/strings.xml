@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPlate</string>
+    <string name="First_Page">Know what\'s in your food.
+    \n Make better choices</string>
+    <string name="SubmitBtn">Sign Up</string>
+    <string name="LogIn">Log In</string>
+</resources>
