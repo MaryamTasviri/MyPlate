@@ -19,12 +19,6 @@
             android:text="Start"
             android:layout_width="match_parent"
             android:layout_height="50dp" />
-        <WebView
-            android:id="@+id/web"
-            android:layout_width="match_parent"
-            android:layout_height="200dp">
-
-        </WebView>
 
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
